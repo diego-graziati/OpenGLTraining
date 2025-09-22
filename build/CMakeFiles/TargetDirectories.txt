@@ -1,0 +1,3 @@
+/home/diego/Scrivania/Programmazione/Progetti/LearnOpenGL/build/CMakeFiles/myprogram.dir
+/home/diego/Scrivania/Programmazione/Progetti/LearnOpenGL/build/CMakeFiles/edit_cache.dir
+/home/diego/Scrivania/Programmazione/Progetti/LearnOpenGL/build/CMakeFiles/rebuild_cache.dir
