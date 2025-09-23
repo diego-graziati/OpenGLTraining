@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/myprogram.dir/main.cpp.o CMakeFiles/myprogram.dir/glad.c.o CMakeFiles/myprogram.dir/shader.cpp.o CMakeFiles/myprogram.dir/camera.cpp.o CMakeFiles/myprogram.dir/stb_image.cpp.o -o myprogram  /home/diego/Scrivania/Programmazione/Progetti/LearnOpenGL/libs/GLFW/libglfw3.a -lGL -lX11 -lpthread -lXrandr -lXi -ldl 
